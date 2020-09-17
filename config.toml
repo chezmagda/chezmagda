@@ -1,4 +1,5 @@
-baseURL                          = "http://chezmagda.cf/"   # Your domain name. Must end with "/"
+
+baseURL                          = "https://chezmagda.github.io/chezmagda/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "it"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
@@ -11,7 +12,7 @@ DefaultContentLanguage           = "it"                    # Default language fo
     fadeIn                       = false                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "ch3z.magda@gmail.com"   # E-mail address for contact section
+    email                        = "ch3zmagda@gmail.com"   # E-mail address for contact section
     customCSS                  = ["css/customCSS.css"]             # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
 
@@ -54,7 +55,7 @@ DefaultContentLanguage           = "it"                    # Default language fo
     #    icon  = "linkedin-in" # icon name without the 'fa-'
     #    icon_pack = "fab"
     [[params.social]]
-        url = "mailto:ch3z.magda@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:ch3zmagda@gmail.com"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
     #[[params.social]]

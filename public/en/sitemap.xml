@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chezmagda.cf/en/</loc>
+    <loc>https://chezmagda.github.io/chezmagda/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://chezmagda.cf/"
+                href="https://chezmagda.github.io/chezmagda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chezmagda.cf/en/"
+                href="https://chezmagda.github.io/chezmagda/en/"
                 />
   </url>
   
   <url>
-    <loc>http://chezmagda.cf/en/tags/</loc>
+    <loc>https://chezmagda.github.io/chezmagda/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://chezmagda.cf/tags/"
+                href="https://chezmagda.github.io/chezmagda/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chezmagda.cf/en/tags/"
+                href="https://chezmagda.github.io/chezmagda/en/tags/"
                 />
   </url>
   

@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chezmagda.cf/projects/</loc>
+    <loc>https://chezmagda.github.io/chezmagda/projects/</loc>
   </url>
   
   <url>
-    <loc>http://chezmagda.cf/blog/</loc>
+    <loc>https://chezmagda.github.io/chezmagda/blog/</loc>
     <lastmod>2020-08-21T15:10:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://chezmagda.cf/</loc>
-    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://chezmagda.cf/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://chezmagda.cf/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://chezmagda.cf/blog/da-dove-si-comincia/</loc>
-    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chezmagda.cf/tags/scampoli-di-storie/</loc>
-    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chezmagda.cf/tags/</loc>
+    <loc>https://chezmagda.github.io/chezmagda/</loc>
     <lastmod>2020-08-21T15:10:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chezmagda.cf/en/tags/"
+                href="https://chezmagda.github.io/chezmagda/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://chezmagda.cf/tags/"
+                href="https://chezmagda.github.io/chezmagda/"
                 />
   </url>
   
   <url>
-    <loc>http://chezmagda.cf/tags/coffee/</loc>
+    <loc>https://chezmagda.github.io/chezmagda/blog/da-dove-si-comincia/</loc>
+    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/tags/scampoli-di-storie/</loc>
+    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/tags/</loc>
+    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chezmagda.github.io/chezmagda/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://chezmagda.github.io/chezmagda/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://chezmagda.cf/blog/coffee-ipsum/</loc>
+    <loc>https://chezmagda.github.io/chezmagda/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://chezmagda.cf/tags/images/</loc>
+    <loc>https://chezmagda.github.io/chezmagda/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://chezmagda.cf/tags/ipsum/</loc>
+    <loc>https://chezmagda.github.io/chezmagda/tags/ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
