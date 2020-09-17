@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/blog/</loc>
+    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/</loc>
+    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chezmagda.github.io/chezmagda/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://chezmagda.github.io/chezmagda/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/blog/da-dove-si-comincia/</loc>
+    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/tags/scampoli-di-storie/</loc>
+    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/tags/</loc>
+    <lastmod>2020-08-21T15:10:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chezmagda.github.io/chezmagda/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://chezmagda.github.io/chezmagda/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/tags/coffee/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/tags/images/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chezmagda.github.io/chezmagda/tags/ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+</urlset>

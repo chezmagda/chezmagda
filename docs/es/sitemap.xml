@@ -3,283 +3,283 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/es/projects/photography/</loc>
+    <loc>http://chezmagda.cf/es/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/photography/"
+                href="http://chezmagda.cf/de/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/projects/photography/"
+                href="http://chezmagda.cf/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/projects/photography/"
+                href="http://chezmagda.cf/es/projects/photography/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/projects/design/</loc>
+    <loc>http://chezmagda.cf/es/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/design/"
+                href="http://chezmagda.cf/de/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/projects/design/"
+                href="http://chezmagda.cf/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/projects/design/"
+                href="http://chezmagda.cf/es/projects/design/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/projects/writing/</loc>
+    <loc>http://chezmagda.cf/es/projects/writing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/writing/"
+                href="http://chezmagda.cf/de/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/projects/writing/"
+                href="http://chezmagda.cf/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/projects/writing/"
+                href="http://chezmagda.cf/es/projects/writing/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/projects/</loc>
+    <loc>http://chezmagda.cf/es/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/"
+                href="http://chezmagda.cf/de/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/projects/"
+                href="http://chezmagda.cf/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/projects/"
+                href="http://chezmagda.cf/es/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/blog/</loc>
+    <loc>http://chezmagda.cf/es/blog/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/"
+                href="http://chezmagda.cf/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/blog/"
+                href="http://chezmagda.cf/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/blog/"
+                href="http://chezmagda.cf/es/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/blog/hipser-ipsum/</loc>
+    <loc>http://chezmagda.cf/es/blog/hipser-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/es/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://example.com/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://example.com/es/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://example.com/es/tags/ipsum/</loc>
+    <loc>http://chezmagda.cf/es/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/ipsum/"
+                href="http://chezmagda.cf/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/ipsum/"
+                href="http://chezmagda.cf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/ipsum/"
+                href="http://chezmagda.cf/es/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/tags/</loc>
+    <loc>http://chezmagda.cf/es/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/"
+                href="http://chezmagda.cf/de/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/"
+                href="http://chezmagda.cf/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/"
+                href="http://chezmagda.cf/es/tags/ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/tags/words/</loc>
+    <loc>http://chezmagda.cf/es/tags/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/words/"
+                href="http://chezmagda.cf/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/words/"
+                href="http://chezmagda.cf/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/words/"
+                href="http://chezmagda.cf/es/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/tags/code/</loc>
+    <loc>http://chezmagda.cf/es/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://chezmagda.cf/de/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chezmagda.cf/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://chezmagda.cf/es/tags/words/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://chezmagda.cf/es/tags/code/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/code/"
+                href="http://chezmagda.cf/de/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/code/"
+                href="http://chezmagda.cf/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/code/"
+                href="http://chezmagda.cf/es/tags/code/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/blog/startup-ipsum/</loc>
+    <loc>http://chezmagda.cf/es/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/startup-ipsum/"
+                href="http://chezmagda.cf/de/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/blog/startup-ipsum/"
+                href="http://chezmagda.cf/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/blog/startup-ipsum/"
+                href="http://chezmagda.cf/es/blog/startup-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/tags/coffee/</loc>
+    <loc>http://chezmagda.cf/es/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/coffee/"
+                href="http://chezmagda.cf/de/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/coffee/"
+                href="http://chezmagda.cf/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/coffee/"
+                href="http://chezmagda.cf/es/tags/coffee/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/blog/coffee-ipsum/</loc>
+    <loc>http://chezmagda.cf/es/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/coffee-ipsum/"
+                href="http://chezmagda.cf/de/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/blog/coffee-ipsum/"
+                href="http://chezmagda.cf/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/blog/coffee-ipsum/"
+                href="http://chezmagda.cf/es/blog/coffee-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/es/tags/images/</loc>
+    <loc>http://chezmagda.cf/es/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/images/"
+                href="http://chezmagda.cf/de/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/images/"
+                href="http://chezmagda.cf/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/images/"
+                href="http://chezmagda.cf/es/tags/images/"
                 />
   </url>
   
