@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Chez Magda</title>
+    <link>http://chezmagda.cf/tags/</link>
+    <description>Recent content in Tags on Chez Magda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 21 Aug 2020 15:10:00 +0000</lastBuildDate><atom:link href="http://chezmagda.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>scampoli di storie</title>
+      <link>http://chezmagda.cf/tags/scampoli-di-storie/</link>
+      <pubDate>Fri, 21 Aug 2020 15:10:00 +0000</pubDate>
+      
+      <guid>http://chezmagda.cf/tags/scampoli-di-storie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coffee</title>
+      <link>http://chezmagda.cf/tags/coffee/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>http://chezmagda.cf/tags/coffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>images</title>
+      <link>http://chezmagda.cf/tags/images/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>http://chezmagda.cf/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ipsum</title>
+      <link>http://chezmagda.cf/tags/ipsum/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>http://chezmagda.cf/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
